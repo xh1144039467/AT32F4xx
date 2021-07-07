@@ -245,4 +245,4 @@ void DMA1_Channel5_IRQHandler(void)
     DMA_ClearFlag(DMA1_FLAG_ERR5);
     ;
   }
-}git
+}
