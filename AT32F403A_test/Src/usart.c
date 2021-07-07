@@ -211,3 +211,7 @@ void USART2_NVIC_Configuration(void)
     USART2_NVIC_InitStructure.NVIC_IRQChannelCmd = ENABLE;
     NVIC_Init(&USART2_NVIC_InitStructure);
 }
+
+
+
+/*************************************/
