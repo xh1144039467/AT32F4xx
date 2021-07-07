@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "at32_board.h": "c",
+        "at32f4xx.h": "c",
+        "stdio.h": "c",
+        "crtdefs.h": "c",
+        "at32f4xx_it.h": "c",
+        "at32f4xx_rcc.h": "c",
+        "at32f4xx_usart.h": "c",
+        "at32f4xx_conf.h": "c",
+        "task.h": "c",
+        "at32f4xx_gpio.h": "c",
+        "usart.h": "c",
+        "at32f4xx_dma.h": "c",
+        "string.h": "c"
+    }
+}
